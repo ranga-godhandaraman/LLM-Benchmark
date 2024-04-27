@@ -30,5 +30,5 @@ This repository contains benchmarking data and code for several tasks which is h
 Each benchmarking task includes code for running experiments and evaluating models.
 
 ### Note:
- The models may show 0.0 or 1.0 at some places, as we know that these models used in the benchmarking (AlBert & DistilBert) are not efficient model to perform upto the mark. 
- Finetuning  may Yeild better results!!
+ The models may show 0.0 or 1.0 at some places, as we know that these models used in the benchmarking (AlBert & DistilBert) are not efficient models to perform up to the mark. 
+ Finetuning  may Yield better results!!
